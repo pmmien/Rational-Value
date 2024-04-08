@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hugo on 理性价值</title>
+        <link>http://localhost:1313/tags/hugo/</link>
+        <description>Recent content in Hugo on 理性价值</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language>
+        <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我的第一篇文章</title>
+        <link>http://localhost:1313/posts/my-first-post/</link>
+        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/my-first-post/</guid>
+        <description>&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h1&gt;
+&lt;p&gt;这是我的第一篇文章，我在这里分享一些想法。&lt;/p&gt;
+&lt;h2 id=&#34;小节标题&#34;&gt;小节标题&lt;/h2&gt;
+&lt;p&gt;这里是一些具体内容。你可以使用Markdown来：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;创建列表&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;加粗文本&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;斜体文本&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;插入&lt;a class=&#34;link&#34; href=&#34;https://example.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;链接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更多Markdown语法，可以查阅相关&lt;a class=&#34;link&#34; href=&#34;https://www.markdownguide.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Markdown指南&lt;/a&gt;。
+ß&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
